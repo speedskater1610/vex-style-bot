@@ -60,7 +60,7 @@ float budget_left{130.02f};
 
 ### Any other micro controller I dont already own
 
-*NOTE: I own a lot of arduino and ESP32 boards so Iw ill not be including those in the budget*
+*NOTE: I own a lot of arduino and ESP32 boards so I will not be including those in the budget*
 
 -
 
